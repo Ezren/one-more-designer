@@ -1,0 +1,7 @@
+export { default as Nav } from './Nav'
+export { default as Title } from './Title'
+export { default as Name } from './Name'
+export { default as Bio } from './Bio'
+export { default as Contact } from './Contact'
+export { default as Picture } from './Picture'
+export { default as Footer } from './Footer'
